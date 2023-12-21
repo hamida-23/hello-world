@@ -1,0 +1,1 @@
+200~You will be prompted for confirmation if the file is write-protected, as shown below. To remove the file, type y, and hit Enter. Otherwise, if the file is not write-protected, it will be deleted without prompting.
